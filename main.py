@@ -95,7 +95,7 @@ main(Phi,Beta,Delta,v,Lf,Lr)
 plt.figure(1)
 plt.subplot(2,2,1)
 plt.plot(X,Y)
-plt.plot(Z,R)
+
 
 plt.subplot(2,2,2)
 plt.plot(time,Y)
